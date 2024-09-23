@@ -31,7 +31,3 @@
       <img width="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png">
     </a>
 </div>
-
-
-
-![Snake animation](https://github.com/LucianoAlmeidaAnjos/LucianoAlmeidaAnjos/blob/output/github-contribution-grid-snake.svg)
